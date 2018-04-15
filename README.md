@@ -2,9 +2,7 @@
 
 This repository contains a Python 3.6 implementation of the framework described in:
 
-*"Fiorucci, M., Pelosin, F., & Pelillo, M. (2018). Scalable Graph Search Using the Regularity Lemma"*
-
-If you use the code, please cite the above paper.
+*"Fiorucci, M., Pelosin, F., & Pelillo, M. Scalable Graph Search Using the Regularity Lemma. Submitted to ECML-PKDD 2018"*
 
 
 ## Installation
