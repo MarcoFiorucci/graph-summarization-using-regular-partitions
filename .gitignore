@@ -1,16 +1,7 @@
 __pycache__/
-venv/
-conf.py
 imgs/
 *.mat
 *.npz
 *.png
 *.pdf
 *.csv
-*.sh
-readme.txt
-!data/gen.py
-csv/
-data_unique_run/
-experiments.py
-real_dset.py
