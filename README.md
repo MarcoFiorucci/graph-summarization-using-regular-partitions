@@ -1,8 +1,8 @@
 # scalable-graph-search
 
-This repository contains a Python 3.6 implementation of the framework described in:
+This repository contains a Python 3.6 implementation of a graph summariation framework based on Szemeédi's Regulairty Lemma described in:
 
-*"Fiorucci, M., Pelosin, F., & Pelillo, M. Scalable Graph Search Using the Regularity Lemma. Submitted to ECML-PKDD 2018"*
+*"Fiorucci, M., Pelosin, F., & Pelillo, M. Graph Summarization Using Regular Partitions and Its Applications in Pattern Recognition. Submitted to Pattern Recognition"*
 
 
 ## Installation
