@@ -1,4 +1,4 @@
-# scalable-graph-search
+# graph-summarization-using-regular-partitions
 
 This repository contains a Python 3.6 implementation of a graph summariation framework based on Szemerédi's Regulairty Lemma described in:
 
