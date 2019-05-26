@@ -2,14 +2,14 @@
 
 This repository contains a Python 3.6 implementation of a graph summariation framework based on Szemerédi's Regulairty Lemma described in:
 
-@misc{fiorucci2019,
+*@misc{fiorucci2019, 
     title={Separating Structure from Noise in Large Graphs Using the Regularity Lemma},
     author={Marco Fiorucci and Francesco Pelosin and Marcello Pelillo},
     year={2019},
     eprint={1905.06917},
     archivePrefix={arXiv},
     primaryClass={cs.DS}
-}
+}*
 
 ## Installation
 
