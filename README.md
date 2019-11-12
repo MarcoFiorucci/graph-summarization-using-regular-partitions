@@ -8,13 +8,13 @@ Marco Fiorucci, Francesco Pelosin and Marcello Pelillo. Separating Structure fro
 
 Please cite our paper if you use this code in your own work:
 ```
-@misc{fiorucci2019, 
-    title={Separating Structure from Noise in Large Graphs Using the Regularity Lemma},
-    author={Marco Fiorucci and Francesco Pelosin and Marcello Pelillo},
-    year={2019},
-    eprint={1905.06917},
-    archivePrefix={arXiv},
-    primaryClass={cs.DS}
+@article{FIORUCCI2020,
+title = "Separating Structure from Noise in Large Graphs Using the Regularity Lemma",
+journal = "Pattern Recognition",
+volume = "98",
+pages = "107070",
+year = "2020",
+author = "Marco Fiorucci and Francesco Pelosin and Marcello Pelillo",
 }
 ```
 
