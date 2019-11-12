@@ -14,7 +14,7 @@ journal = "Pattern Recognition",
 volume = "98",
 pages = "107070",
 year = "2020",
-author = "Marco Fiorucci and Francesco Pelosin and Marcello Pelillo",
+author = "Marco Fiorucci and Francesco Pelosin and Marcello Pelillo"
 }
 ```
 
